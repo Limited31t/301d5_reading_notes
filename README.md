@@ -1,3 +1,3 @@
 # Table of Contents
--[301d5_Reading_Notes](class1readingnotes.md)
--[301d5_Reading_Notes](class2readingnotes.md)
+-[Class_1_Reading_Notes](class1readingnotes.md)
+-[Class_2_Reading_Notes](class2readingnotes.md)
