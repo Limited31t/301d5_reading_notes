@@ -9,3 +9,4 @@
 
 -[Class_5_Reading_Notes](class5readingnotes.md)
 
+-[Class_6_Reading_Notes](class6readingnotes.md)
