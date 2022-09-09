@@ -14,3 +14,5 @@
 -[Class_7_Reading_Notes](class7readingnotes.md)
 
 -[Class_8_Reading_Notes](class8readingnotes.md)
+
+-[Class_9_Reading_Notes](class9readingnotes.md)
