@@ -16,3 +16,5 @@
 -[Class_8_Reading_Notes](class8readingnotes.md)
 
 -[Class_9_Reading_Notes](class9readingnotes.md)
+
+-[Class_10_Reading_Notes](class10readingnotes.md)
