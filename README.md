@@ -1,4 +1,5 @@
 # Table of Contents
+
 -[Class_1_Reading_Notes](class1readingnotes.md)
 
 -[Class_2_Reading_Notes](class2readingnotes.md)
@@ -20,3 +21,5 @@
 -[Class_10_Reading_Notes](class10readingnotes.md)
 
 -[Class_11_Reading_Notes](class11readingnotes.md)
+
+-[Class_12_Reading_Notes](class12readingnotes.md)
