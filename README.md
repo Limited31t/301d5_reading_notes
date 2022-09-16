@@ -25,3 +25,6 @@
 -[Class_12_Reading_Notes](class12readingnotes.md)
 
 -[Class_13_Reading_Notes](class13readingnotes.md)
+
+-[Class_14_Reading_Notes](class14readingnotes.md)
+
